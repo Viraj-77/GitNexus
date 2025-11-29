@@ -73,34 +73,6 @@ HF-Pro/
 3. A Google Gemini API Key
 4. An ElevenLabs API Key
 
-### Steps
-
-1. **Create a new Space on Hugging Face**
-   - Go to https://huggingface.co/new-space
-   - Choose a name for your Space
-   - Select **Gradio** as the SDK
-   - Choose **Public** or **Private** visibility
-   - Click "Create Space"
-
-2. **Upload the files**
-   - Upload all 5 files from this project:
-     - `app.py`
-     - `ghclient.py`
-     - `ai_helper.py`
-     - `requirements.txt`
-     - `README.md`
-
-3. **Configure Secrets**
-   - Go to your Space settings
-   - Navigate to "Repository secrets"
-   - Add the following secrets:
-     - `GITHUB_TOKEN`: Your GitHub Personal Access Token
-     - `GEMINI_API_KEY`: Your Google Gemini API Key
-     - `ELEVENLABS_API_KEY`: Your ElevenLabs API Key
-
-4. **Wait for deployment**
-   - Hugging Face will automatically build and deploy your Space
-   - Once ready, you'll see the Gradio interface
 
 ## 🎮 Usage
 
@@ -168,4 +140,4 @@ To run locally:
 
 MIT License - feel free to use this code for your own projects.
 
-**Built with ❤️ for AI agent automation**
+
