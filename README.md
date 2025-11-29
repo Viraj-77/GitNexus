@@ -27,6 +27,7 @@ This Hugging Face Space demonstrates GitHub automation using MCP (Model Context 
 
 ### ▶️YouTube Demo: https://youtu.be/enW1gmE6Xrc
 ### Huggingface 🤗: https://huggingface.co/spaces/Viraj77/GitNexus
+### X Post: https://x.com/TalathiViraj/status/1994856982319436242?s=20
 
 ## 🎯 Features
 
