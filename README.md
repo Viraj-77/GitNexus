@@ -25,8 +25,8 @@ pinned: false
 
 This Hugging Face Space demonstrates GitHub automation using MCP (Model Context Protocol) tools integrated with a Gradio UI. AI agents like Claude, Cursor, and Antigravity can discover and call GitHub functions via MCP, while humans can use the intuitive web interface.
 
-# ▶️YouTube Demo: https://youtu.be/enW1gmE6Xrc
-# Huggingface 🤗: https://huggingface.co/spaces/Viraj77/GitNexus
+### ▶️YouTube Demo: https://youtu.be/enW1gmE6Xrc
+### Huggingface 🤗: https://huggingface.co/spaces/Viraj77/GitNexus
 
 ## 🎯 Features
 
